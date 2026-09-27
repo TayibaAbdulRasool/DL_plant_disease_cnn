@@ -154,13 +154,4 @@ For clearer inputs, use a sharp, well-lit image with one visible leaf and minima
 
 **Tayiba Abdul Rasool**
 
-GitHub: [@TayibaAbdulRasool](https://github.com/TayibaAbdulRasool)
 
-## License
-
-No license is currently specified. Until a license is added, the repository does not explicitly grant permission for reuse or redistribution.
-
----
-
-**Repository:** `DL_plant_disease_cnn`  
-**Application:** The Leaf Ledger
