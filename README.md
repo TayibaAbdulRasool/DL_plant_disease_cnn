@@ -52,6 +52,10 @@ Images were resized to **128 × 128**. The training pipeline used **horizontal f
 
 The reported test accuracy is **94.53%** under the notebook's evaluation setup. This figure does not guarantee the same performance on every user-uploaded image or on photographs captured in real-world field conditions.
 
+## Project UI
+
+<img width="1492" height="896" alt="image" src="https://github.com/user-attachments/assets/12d59b14-a483-490b-83ac-dbd97e2f015b" />
+
 ## Project Structure
 
 ```text
