@@ -6,6 +6,10 @@ DL Plant Disease CNN, presented in the application as **The Leaf Ledger**, allow
 
 > **Disclaimer:** This is an educational classification tool, not a substitute for advice from an agricultural expert. Predictions may be less reliable on field photographs or images outside the model's supported classes.
 
+## Project
+
+https://dlplantdiseasecnn-b6s5lig5gvdr8knxpf4dfs.streamlit.app/
+
 ## Project Features
 
 - Upload leaf images in JPG, JPEG, or PNG format.
