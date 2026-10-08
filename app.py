@@ -964,4 +964,3 @@ with tab_index:
                     """,
                     unsafe_allow_html=True,
                 )
-```
