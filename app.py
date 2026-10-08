@@ -1,4 +1,4 @@
-```python
+
 """
 The Leaf Ledger — a field-diagnostic UI for the Plant Disease CNN.
 
